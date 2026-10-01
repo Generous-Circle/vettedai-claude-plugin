@@ -1,0 +1,13 @@
+{
+  "name": "vettedai",
+  "description": "VettedAI MCP plugin for Claude Code — work your recruiting pipeline (candidates, projects, sourcing, auditions) from your editor. Connects to your own VettedAI account via OAuth; every action is scoped to your own data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "VettedAI",
+    "url": "https://www.vettedai.app"
+  },
+  "homepage": "https://www.vettedai.app/mcp/setup",
+  "repository": "https://github.com/Generous-Circle/vettedai-claude-plugin",
+  "license": "MIT",
+  "keywords": ["vettedai", "recruiting", "hiring", "candidates", "mcp", "ats"]
+}

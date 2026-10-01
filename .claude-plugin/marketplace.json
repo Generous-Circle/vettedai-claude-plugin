@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "vettedai-claude-plugin",
+  "description": "VettedAI's Claude Code plugin marketplace — connect your recruiting pipeline to Claude Code over MCP.",
+  "owner": {
+    "name": "VettedAI",
+    "url": "https://www.vettedai.app"
+  },
+  "plugins": [
+    {
+      "name": "vettedai",
+      "description": "Work your VettedAI recruiting pipeline — candidates, projects, sourcing, auditions — from Claude Code. Connects via OAuth, scoped to your own account.",
+      "author": {
+        "name": "VettedAI",
+        "url": "https://www.vettedai.app"
+      },
+      "category": "productivity",
+      "source": "./plugins/vettedai",
+      "homepage": "https://www.vettedai.app/mcp/setup"
+    }
+  ]
+}

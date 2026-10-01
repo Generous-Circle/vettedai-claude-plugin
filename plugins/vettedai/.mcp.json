@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vettedai": {
+      "type": "http",
+      "url": "https://www.vettedai.app/mcp"
+    }
+  }
+}
